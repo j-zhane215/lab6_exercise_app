@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/lab6_exercise_app/static/css/main.1fd2418d.css",
+    "main.js": "/lab6_exercise_app/static/js/main.97ebe189.js",
+    "static/js/787.90895c91.chunk.js": "/lab6_exercise_app/static/js/787.90895c91.chunk.js",
+    "static/media/background_image-01.jpg": "/lab6_exercise_app/static/media/background_image-01.4070daa2b7cdaa8ff1fe.jpg",
+    "index.html": "/lab6_exercise_app/index.html",
+    "main.1fd2418d.css.map": "/lab6_exercise_app/static/css/main.1fd2418d.css.map",
+    "main.97ebe189.js.map": "/lab6_exercise_app/static/js/main.97ebe189.js.map",
+    "787.90895c91.chunk.js.map": "/lab6_exercise_app/static/js/787.90895c91.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1fd2418d.css",
+    "static/js/main.97ebe189.js"
+  ]
+}
