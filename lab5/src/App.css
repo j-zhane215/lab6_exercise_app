@@ -1,0 +1,253 @@
+body{
+  background-image: url('../src/background_image-01.jpg');
+  display: block;
+}
+
+h1{
+  color: #5b5656;
+  font-size: xx-large;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  font-weight: 100;
+  text-align: center;
+}
+
+h2{
+  color: #5b5656;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: 100;
+    text-align: center;
+}
+
+.main-buttons{
+  justify-content: center;
+}
+
+.Push-Ups{
+  background-color: #fdfdfd;
+  border: none;
+  color: #5b5656;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  border-radius: 50%;
+  text-align: center;
+  margin-left: 38em;
+
+}
+.Running{
+  background-color: #fdfdfd;
+    border: none;
+    color: #5b5656;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 50%;
+    text-align: center;
+      margin-left: 38em;
+}
+
+.Weights{
+  background-color: #fdfdfd;
+    border: none;
+    color: #5b5656;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 50%;
+    text-align: center;
+      margin-left: 38em;
+}
+
+.choices{
+    border: none;
+    color: #5b5656;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 50%;
+}
+
+.rep-button{
+  background-color: #fdfdfd;
+    border: none;
+    color: #5b5656;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 50%;
+    text-align: center;
+      margin-left: 38em;
+}
+
+.reset-rep{
+  background-color: #fdfdfd;
+    border: none;
+    color: #5b5656;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 50%;
+    text-align: center;
+      margin-left: 38em;
+}
+
+.back-button{
+  background-color: #fdfdfd;
+    border: none;
+    color: #5b5656;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 50%;
+    margin-top: 5em;
+    text-align: center;
+}
+
+.reset-run{
+  background-color: #fdfdfd;
+    border: none;
+    color: #5b5656;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 50%;
+}
+
+.start-pause{
+  background-color: #fdfdfd;
+    border: none;
+    color: #5b5656;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 50%;
+}
+
+.dropdown-toggle{
+  background-color: #fdfdfd;
+    border: none;
+    color: #5b5656;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 50%;
+    text-align: center;
+      margin-left: 38em;
+}
+
+.increase-count{
+  background-color: #fdfdfd;
+    border: none;
+    color: #5b5656;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 50%;
+    text-align: center;
+      margin-left: 38em;
+}
+
+.increase-weight{
+  background-color: #fdfdfd;
+    border: none;
+    color: #5b5656;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 50%;
+    text-align: center;
+      margin-left: 38em;
+}
+
+.reset-button{
+  background-color: #fdfdfd;
+    border: none;
+    color: #5b5656;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 50%;
+   
+}
+
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #ffffff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
